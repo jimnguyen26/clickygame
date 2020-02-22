@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "Raiders",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.nfl.com%2Fstatic%2Fcontent%2Fpublic%2Fstatic%2Fwildcat%2Fassets%2Fimg%2Flogos%2Fteams%2FOAK.svg&imgrefurl=https%3A%2F%2Fwww.raiders.com%2Fhistory%2Fteam-for-all-decades&tbnid=kLq5wAz1KdoNVM&vet=12ahUKEwiUo82Z5-PnAhUbGjQIHRqXCT8QMygCegUIARDfAQ..i&docid=3L4yWBn8QTe3LM&w=500&h=500&q=raiders%20500%20x%20500&ved=2ahUKEwiUo82Z5-PnAhUbGjQIHRqXCT8QMygCegUIARDfAQ",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Broncos",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa2.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%252Fi%252Fteamlogos%252Fnfl%252F500%252Fden.png&imgrefurl=https%3A%2F%2Fafrica.espn.com%2Fnfl%2Fteam%2F_%2Fname%2Fden%2Fdenver-broncos&tbnid=XQnVLkH39Ec8lM&vet=12ahUKEwj19seQ5-PnAhUFBTQIHRAJCmgQMygAegUIARDLAQ..i&docid=Wk2jg01O94NCAM&w=500&h=500&q=broncos%20500%20x%20500&ved=2ahUKEwj19seQ5-PnAhUFBTQIHRAJCmgQMygAegUIARDLAQ",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Chiefs",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mybookie.ag%2Fwp-content%2Fuploads%2Fkansas-city-chiefs-400.png&imgrefurl=https%3A%2F%2Fmybookie.ag%2Fsportsbook%2Fnfl%2Fkansas-city-chiefs%2F&tbnid=cQvVf1kD24on_M&vet=12ahUKEwiVncKI5-PnAhWxGTQIHe9hCPEQMygDegUIARDWAQ..i&docid=u0ceT09yJ4vM8M&w=500&h=500&q=chiefs%20500%20x%20500&ved=2ahUKEwiVncKI5-PnAhWxGTQIHe9hCPEQMygDegUIARDWAQ",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Chargers",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%2Fi%2Fteamlogos%2Fnfl%2F500%2Flac.png&imgrefurl=https%3A%2F%2Fwww.espn.com%2Fnfl%2Fteam%2Fschedule%2F_%2Fname%2Flac&tbnid=mYrSNKoXGhz6tM&vet=12ahUKEwjHov6q4uPnAhWzh54KHaDIBykQMygEegUIARDkAQ..i&docid=fjGn1Mx5n-2LcM&w=500&h=500&q=chargers%20500%20x%20500&ved=2ahUKEwjHov6q4uPnAhWzh54KHaDIBykQMygEegUIARDkAQ",
+        "count": 0
+    }
+]
